@@ -38,5 +38,5 @@ By exploring this project, you'll see how Excel can be leveraged for:
 * Advanced data manipulation and cleaning.
 * Creating powerful visualizations.
 * Turning raw data into meaningful business insights.
-# 🚀 Let's Dive In!
+# 🚀 Dive In!
 Feel free to explore the snapshots and the Excel file to see how data analysis can make a difference. Let me know if you have any questions or feedback!
