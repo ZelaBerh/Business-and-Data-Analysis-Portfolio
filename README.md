@@ -4,7 +4,7 @@
 * [About me](#about-me)
 * [Portfolio Projects](#portfolio-projects)
   * [Excel Pizza Shop Sales Analysis](#excel-pizza-shop-sales-analysis)
-  * [SQL COVID-19 Layoffs Analysis](sql-covid-19-layoffs-analysis)
+  * [SQL COVID-19 Layoffs Analysis](#sql-covid-19-layoffs-analysis)
 * [Certificates](#certificates)
 * [Contact Info](#contact-info)
 
