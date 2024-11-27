@@ -1,6 +1,6 @@
 # 📉 Layoffs Data Analysis
 
-Welcome to my **Layoffs Data Analysis** project! This project showcases how I transformed raw layoffs data into actionable insights using **SQL**. 🚀  
+Welcome to my **Layoffs Data Analysis** project! This project showcases how I transformed raw layoffs data caused by the COVID-19 pandemic into meaningful information and analysis using **SQL**. 🚀  
 
 ## 📂 Project Overview
 I worked with **layoff data from Kaggle** to explore trends, patterns, and anomalies. Here's what I did:  
@@ -59,5 +59,5 @@ By exploring this project, you'll see how SQL can be used for:
 * Using window functions and aggregations to extract meaningful information.
 * Transforming raw data into organized, actionable insights.
   
-# 🚀 Let's Dive In!
+# 🚀 Dive In!
 Explore the SQL scripts and insights to see how data analysis helps uncover meaningful trends. Let me know your thoughts and feedback!
