@@ -3,8 +3,8 @@
 ## Contents
 * [About me](#about-me)
 * [Portfolio Projects](#portfolio-projects)
-  * [Excel Pizza Shop Sales Analysis](https://github.com/ZelaBerh/Business-and-Data-Analysis-Portfolio/tree/main/Projects/Excel)
-  * [SQL COVID-19 Layoffs Analysis](https://github.com/ZelaBerh/Business-and-Data-Analysis-Portfolio/tree/main/Projects/SQL)
+  * [Excel Pizza Shop Sales Analysis](#excel-pizza-shop-sales-analysis)
+  * [SQL COVID-19 Layoffs Analysis](sql-covid-19-layoffs-analysis)
 * [Certificates](#certificates)
 * [Contact Info](#contact-info)
 
@@ -28,9 +28,9 @@ This repository highlights my ability to apply these skills to real-world challe
 ## Portfolio Projects
 This section contains a list of projects with brief descriptions.
 
-* [Excel Pizza Shop Sales Analysis](https://github.com/ZelaBerh/Business-and-Data-Analysis-Portfolio/tree/main/Projects/Excel)
+### [Excel Pizza Shop Sales Analysis](https://github.com/ZelaBerh/Business-and-Data-Analysis-Portfolio/tree/main/Projects/Excel)
   * This project showcases a comprehensive sales analysis for a pizza shop, utilizing Microsoft Excel to transform raw data into actionable insights. Starting with four CSV files, I performed extensive data cleaning and merging using advanced Excel functionalities like VLOOKUP, INDEX-MATCH, and Pivot Tables. Through data visualization and analysis, I identified key sales trends, top-performing products, and revenue distribution. The highlight of this project is a dynamic, interactive dashboard that allows users to filter and analyze data by dates, quarters, and months, providing clear and actionable insights.
-* [SQL COVID-19 Layoffs Analysis](https://github.com/ZelaBerh/Business-and-Data-Analysis-Portfolio/tree/main/Projects/SQL)
+### [SQL COVID-19 Layoffs Analysis](https://github.com/ZelaBerh/Business-and-Data-Analysis-Portfolio/tree/main/Projects/SQL)
   * This project presents a detailed analysis of global layoff trends, leveraging SQL to transform and analyze raw data. Starting with a comprehensive dataset of layoff events, I performed thorough data cleaning and exploratory data analysis (EDA) to uncover key patterns and trends. Using advanced SQL techniques such as aggregate functions, window functions, and subqueries, I identified significant layoffs by company, industry, and location. The project also includes detailed year-over-year comparisons and rolling total calculations to capture the broader impact of layoffs over time. The insights derived from this analysis provide a clearer understanding of how layoffs have evolved across industries, helping to highlight major trends and anomalies.
 
 
