@@ -6,6 +6,7 @@
   * [Excel Pizza Shop Sales Analysis](#excel-pizza-shop-sales-analysis)
   * [SQL COVID-19 Layoffs Analysis](#sql-covid-19-layoffs-analysis)
   * [Python German Car Market Analysis](#python-german-car-market-analysis)
+  * [Power BI Hotel Booking Dashboard](#power-bi-hotel-booking-dashboard)
 * [Certificates](#certificates)
 * [Contact Info](#contact-info)
 
@@ -35,6 +36,8 @@ This section contains a list of projects with brief descriptions.
   * This project presents a detailed analysis of global layoff trends, leveraging SQL to transform and analyze raw data. Starting with a comprehensive dataset of layoff events, I performed thorough data cleaning and exploratory data analysis (EDA) to uncover key patterns and trends. Using advanced SQL techniques such as aggregate functions, window functions, and subqueries, I identified significant layoffs by company, industry, and location. The project also includes detailed year-over-year comparisons and rolling total calculations to capture the broader impact of layoffs over time. The insights derived from this analysis provide a clearer understanding of how layoffs have evolved across industries, helping to highlight major trends and anomalies.
 ### [Python German Car Market Analysis](https://github.com/ZelaBerh/Business-and-Data-Analysis-Portfolio/tree/main/Projects/Python)
   * This project delivers an in-depth analysis of the German car market, leveraging Python to process and analyze raw automotive data. Starting with a comprehensive dataset of German car attributes, I conducted meticulous data cleaning and exploratory data analysis (EDA) to reveal key trends and insights. Using advanced Python techniques such as grouping, aggregation, and statistical analysis, I examined relationships between features like price, horsepower, and engine size, while identifying significant patterns across brands and vehicle types. The project also features visualizations that highlight market trends, brand comparisons, and feature correlations, offering a comprehensive understanding of the German automotive landscape.
+### [Power BI Hotel Booking Dashboard](https://github.com/ZelaBerh/Business-and-Data-Analysis-Portfolio/tree/main/Projects/Power%20BI)
+  * This project showcases a comprehensive analysis of hotel booking data, leveraging Excel for data cleaning and preparation and Power BI for dynamic visualizations. Starting with a dataset of over 66,000 records, I transformed raw data into actionable insights by standardizing formats, handling missing values, and calculating key metrics like profit margins and stay durations. The analysis highlights customer booking trends, segmentation by demographics, and hotel performance metrics, including occupancy rates and profitability. The interactive Power BI dashboard visualizes these insights, offering a deeper understanding of customer behaviors and financial outcomes.
 
 
 ## Certificates
