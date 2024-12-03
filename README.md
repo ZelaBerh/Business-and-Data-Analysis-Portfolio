@@ -13,7 +13,8 @@
 ## About me
 Hello, I am Zelalem B. Bogale, a well-experienced Business and Data Analyst. This is my Business and Data Analysis portfolio.<br>
 
-Here is my updated [**CV**](https://github.com/ZelaBerh/Business-and-Data-Analysis-Portfolio/blob/main/Zelalem's%20Business%20and%20Data%20Analyst%20CV.pdf).
+Here is my updated [**CV**](https://github.com/user-attachments/files/17993489/Zelalem.Business.and.Data.Analyst.Resume.pdf)
+.
 
 This repository showcases my analytical and technical skills, demonstrating my ability to work with data, create insights, and deliver impactful solutions. Here’s a summary of what it covers:
 
